@@ -51,7 +51,7 @@ This project aims to address the following key business questions:
 
 ## Dashboard Preview
 
-![Executive Dashboard](Dashboard/dashboard.png)
+![Executive Dashboard](dashboard.PNG)
 
 ## Key Insights
 

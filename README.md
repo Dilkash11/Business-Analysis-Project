@@ -4,7 +4,7 @@
 This project analyzes Superstore sales and profitability using SQL, Excel, and Power BI. The objective is to identify the key factors impacting business performance and provide actionable recommendations through an interactive executive dashboard.
 
 ## Business Problem
-The CEO wanted to understand:
+
 - Why is revenue increasing while profit is declining?
 - Which regions are underperforming?
 - Which products require immediate business attention?
@@ -57,7 +57,7 @@ This project aims to address the following key business questions:
 
 - Despite generating higher sales than the South region, the Central region recorded the lowest profit.
 - The Central region offered the highest average discounts, indicating a strong relationship between excessive discounting and declining profitability.
-- Orders with discounts above 40% consistently resulted in losses.
+- Orders with discounts above 30% consistently resulted in losses.
 - Tables and Bookcases emerged as the largest loss-making sub-categories.
 - The Power BI dashboard enables interactive exploration of regional and product-level performance using slicers and KPI cards.
 
